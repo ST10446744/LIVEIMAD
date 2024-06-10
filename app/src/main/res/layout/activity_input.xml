@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".InputActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter numbers for each day of the week"
+        android:textSize="18sp"
+        android:layout_marginBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/editTextMonday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Monday" />
+
+    <EditText
+        android:id="@+id/editTextTuesday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tuesday" />
+
+    <EditText
+        android:id="@+id/editTextWednesday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Wednesday" />
+
+    <EditText
+        android:id="@+id/editTextThursday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Thursday" />
+
+    <EditText
+        android:id="@+id/editTextFriday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Friday" />
+
+    <Button
+        android:id="@+id/buttonCalculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calculate Average"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/textViewAverage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/buttonDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Details"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/buttonExit2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:layout_marginTop="10dp"/>
+</LinearLayout>
