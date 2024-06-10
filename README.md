@@ -1,6 +1,7 @@
 # Details 
 Student Number : 10446744
-Github link : 
+Github link : https://github.com/ST10446744/LIVEIMAD.git
+
 
 
 
@@ -50,6 +51,16 @@ WeatherNow transcends the realm of mere applications, emerging as a vital tool f
 # Limitations and Future Enhancements:
 
 While WeatherNow stands as a pinnacle of innovation, it is essential to acknowledge its limitations and outline potential avenues for future enhancements. Continual refinement of weather data accuracy, integration with additional features such as weather alerts and interactive maps, and performance optimization represent key areas for future development. By addressing these aspects, WeatherNow can further solidify its position as a premier weather forecasting application.
+
+
+# Screen pictures 
+
+
+![Screenshot 2024-06-10 130238](https://github.com/ST10446744/LIVEIMAD/assets/165274678/dfb52889-469b-4e04-aee7-3d0fc3ab224b)
+![Screenshot 2024-06-10 130307](https://github.com/ST10446744/LIVEIMAD/assets/165274678/539cec2d-a56d-400e-8d91-bce14ceeb616)
+![Screenshot 2024-06-10 130324](https://github.com/ST10446744/LIVEIMAD/assets/165274678/e0afabb1-e60b-4449-8ea0-28979f609781)
+
+
 
 # References:
 
